@@ -1,0 +1,28 @@
+[
+    {
+      "ac_id": "crj1000",
+      "ac_name": "CRJ 1000",
+      "range": 1622
+    },
+    {
+     "ac_id": "crj900",
+      "ac_name": "CRJ 900",
+      "range": 1553
+    },
+    {
+      "ac_id": "crj700",
+      "ac_name": "CRJ 700",
+      "range": 1378
+    },
+    {
+      "ac_id": "spacejetm90",
+      "ac_name": "SPACEJET M90",
+      "range": 2040
+    },
+    {
+      "ac_id": "spacejetm100",
+      "ac_name": "SPACEJET M100",
+      "range": 1910
+    }
+  ]
+  
